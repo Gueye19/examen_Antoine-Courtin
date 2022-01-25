@@ -1,4 +1,5 @@
-#Examen
+ Faire l'affichage sur une carte des lieux de conservation des sculptures d'Auguste Rodin uniquement conservées aux Etat-Unis.
+#Excercice
 
 
 #REQUETE
