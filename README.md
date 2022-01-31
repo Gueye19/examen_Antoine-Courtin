@@ -1,5 +1,86 @@
 # Exam antoine courtin
+#JEUX DE DONNEES
 
+#OPENREFINE
+``` json
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Lieu",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Inconnue"
+      }
+    ],
+    "description": "Mass edit cells in column Lieu"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Téléphone",
+    "description": "Remove column Téléphone"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "URL",
+    "description": "Remove column URL"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "REF_Deps",
+    "description": "Remove column REF_Deps"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Code Postal",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "81000"
+      }
+    ],
+    "description": "Mass edit cells in column Code Postal"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Adresse",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Inconnue"
+      }
+    ],
+    "description": "Mass edit cells in column Adresse"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Lieu",
+    "description": "Remove column Lieu"
+  }
+]
+
+```
 #données
 
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/g__/?&static=false&scrollWheelZoom=false"></iframe>
