@@ -92,7 +92,7 @@
 
 #L réaprtion des musées Francais dans les différentes Régions de Faance.
 
-<iframe src="https://data.opendatasoft.com/chart/embed/g__/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+<iframe src="https://data.opendatasoft.com/chart/embed/g__/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 
 ##Wikidata
