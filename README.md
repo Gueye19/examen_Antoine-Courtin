@@ -90,7 +90,8 @@
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/g__/?&static=false&scrollWheelZoom=false"></iframe>
 
 
-#L réaprtion des musées Francais dans les différentes Régions de Faance.
+#La réaprtion des musées Francais dans les différentes Régions de France.
+Après avoir fait une représentation des données sous forme de carte, nous avons fait une représenation graphique sous forme de colonne sur OPENDATASOFT afin de connaitre le nombre de musées exacts dans chaque région avec toutes les infiormation nécessaires dès que mets le souris sur une bande selon la couleur et la région.
 
 <iframe src="https://data.opendatasoft.com/chart/embed/g__/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
