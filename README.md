@@ -20,7 +20,7 @@ Dans la cadre de notre  cours en analyse de données et de datavisualisation, no
 
 # La répartition des musées Francais dans les différentes Régions de France grace à Opendatasoft.
 
-**Représenaton de données sous forme de carte avec Opendatasoft pour visualiser le nombre de musées Francais et leur répartion dans le territoire national avec une possibilité avec une barre de recherche de rechercher un lieu.**
+Représenaton de données sous forme de carte avec Opendatasoft pour visualiser le nombre de musées Francais et leur répartion dans le territoire national avec une possibilité avec une barre de recherche de rechercher un lieu.
 
 
 
