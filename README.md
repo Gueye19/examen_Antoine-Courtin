@@ -3,9 +3,13 @@
 
 ![i](Rouen_musée_des_Beaux_Arts_Jardin_des_Sculptures_Martpan.jpg)
 
+#INTRODUCTION
+Les musées occupent une place importante dans le patrimoine français. Lieu dans lequel sont collectés, conservés et exposés des objets dans un souci d’enseignement et de culture, le musée semble être un endroit historique et d’enseignement. En France, on note plus de 1000  musées répartis dans différentes Régions avec des spécifiés différentes.
+Dans la cadre de notre  cours en analyse de données et de datavisualisation, nous nous sommes intéressés au jeu de données issue de la plateforme opendatasoft : liste-et-localisation-des-musees-de-France  et de données issues de WIKIDATA à partir de requête SPARQL.  Cette action dans le but de comprendre leur emplacement, leur nombre  dans le but de comprendre la répartition des musées dans les régions Française et leur date de création .
 
 
-#JEUX DE DONNEES
+#JEUX DE DONNEES CHOISIS
+[https://data.opendatasoft.com/explore/embed/dataset/liste-et-localisation-des-musees-de-france@culture/table/](Lien de notre de jeu de données)
 
 #OPENREFINE
 ``` json
