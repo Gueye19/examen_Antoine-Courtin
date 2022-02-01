@@ -27,8 +27,8 @@ Dans la cadre de notre  cours en analyse de données et de datavisualisation, no
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/g__/?&static=false&scrollWheelZoom=false"></iframe>
 
 
-
-Après avoir fait une représentation des données sous forme de carte, nous avons fait une représenation graphique sous forme de colonne sur OPENDATASOFT afin de connaitre le nombre de musées exacts dans chaque région avec toutes les infiormation nécessaires dès que mets le souris sur une bande selon la couleur et la région.
+**Visualisation par colonne**
+Après avoir fait une représentation des données sous forme de carte, nous avons fait une représenation graphique sous forme de colonne sur OPENDATASOFT afin de connaitre le nombre exact de musée dans chaque région avec toutes les infiormation nécessaires dès que mets le souris sur une bande selon la couleur et la région.
 
 <iframe src="https://data.opendatasoft.com/chart/embed/g__/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
