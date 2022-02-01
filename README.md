@@ -13,7 +13,7 @@ Dans la cadre de notre  cours en analyse de données et de datavisualisation, no
 #JEUX DE DONNEES CHOISIS
 
 
-[https://data.opendatasoft.com/explore/embed/dataset/liste-et-localisation-des-musees-de-france@culture/table/](Lien de notre de jeu de données)
+[https://data.opendatasoft.com/explore/embed/dataset/liste-et-localisation-des-musees-de-france@culture/table/](lien vers de notre de jeu de données)
 
 
 
