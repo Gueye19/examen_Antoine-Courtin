@@ -18,7 +18,7 @@ Dans la cadre de notre  cours en analyse de données et de datavisualisation, no
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/liste-et-localisation-des-musees-de-france@culture/table/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>)
 
 
-
+# La réaprtion des musées Francais dans les différentes Régions de France.
 
 **Représenaton de données sous forme de carte avec Opendatasoft pour visualiser le nombre de musées Francais et leur répartion dans le territoire national.**
 
@@ -27,7 +27,7 @@ Dans la cadre de notre  cours en analyse de données et de datavisualisation, no
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/g__/?&static=false&scrollWheelZoom=false"></iframe>
 
 
-#La réaprtion des musées Francais dans les différentes Régions de France.
+
 Après avoir fait une représentation des données sous forme de carte, nous avons fait une représenation graphique sous forme de colonne sur OPENDATASOFT afin de connaitre le nombre de musées exacts dans chaque région avec toutes les infiormation nécessaires dès que mets le souris sur une bande selon la couleur et la région.
 
 <iframe src="https://data.opendatasoft.com/chart/embed/g__/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
