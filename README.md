@@ -152,7 +152,6 @@ defaultView:Timeline
 
 #CONCLUSION
 
-
 il était intéressant de se pencher sur le nombre de musées en France et ‘essayer d’expliquer leur répartition et de montrer leur historique de création.. Grace aux différents types de datavisualisations, nous avons pu mettre en avant des « questions » qui méritaient des réponses.
 
 •	il est nécessaire d’adapter les données à chaque application pour les visualiser
