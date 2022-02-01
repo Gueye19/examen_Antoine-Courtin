@@ -3,7 +3,7 @@
 
 ![i](Rouen_musée_des_Beaux_Arts_Jardin_des_Sculptures_Martpan.jpg)
 
-**#INTRODUCTION
+**#INTRODUCTION**
 
 
 Les musées occupent une place importante dans le patrimoine français. Lieu dans lequel sont collectés, conservés et exposés des objets dans un souci d’enseignement et de culture, le musée semble être un endroit historique et d’enseignement. En France, on note plus de 1000  musées répartis dans différentes Régions avec des spécifiés différentes.
