@@ -30,6 +30,8 @@ Représenaton de données sous forme de carte avec Opendatasoft pour visualiser 
 
 
 **Visualisation par colonne**
+
+
 Après avoir fait une représentation des données sous forme de carte, nous avons fait une représenation graphique sous forme de colonne sur OPENDATASOFT afin de connaitre le nombre exact de musée dans chaque région avec toutes les infiormation nécessaires dès que mets le souris sur une bande selon la couleur et la région.
 
 <iframe src="https://data.opendatasoft.com/chart/embed/g__/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
@@ -37,6 +39,11 @@ Après avoir fait une représentation des données sous forme de carte, nous avo
 
 ### OPENREFINE
 
+Avec openrefine, nous avons supprrimer certaines colonnes comme les :
+* URL
+* numéro téléphone
+* reférence départementale...,
+ de mettre en inconnue les données absentes et de réorganiser le contenu.
 
 ``` json
 [
@@ -165,7 +172,10 @@ defaultView:Timeline
 
 # CONCLUSION
 
-Il était intéressant de se pencher sur le nombre de musées en France et ‘essayer d’expliquer leur répartition et de montrer leur historique de création.. Grace aux différents types de datavisualisations, nous avons pu mettre en avant des « questions » qui méritaient des réponses.
+
+En définitive, on peut dire notre sujet nous à permis d'entrer dans et de comprendre le monde culturel et celui des musées.
+Il était intéressant de se concentrer sur le nombre de musées en France et d‘essayer d’expliquer leur répartition et de montrer leur historique de création.. Grace aux différents types de datavisualisations, nous avons pu mettre en avant des « questions » qui méritaient des réponses.
+Toutes fois, quelques problèmes ont été notés à savoir:
 
 * Il est nécessaire d’adapter les données à chaque application pour les visualiser
 * Openrefine ne permettait pas de réconcilier les dates et les images avec les musées par soucis de Nom.
