@@ -174,7 +174,7 @@ defaultView:Timeline
 
 
 En définitive, on peut dire notre sujet nous à permis d'entrer dans et de comprendre le monde culturel et celui des musées.
-Il était intéressant de se concentrer sur le nombre de musées en France et d‘essayer d’expliquer leur répartition et de montrer leur historique de création.. Grace aux différents types de datavisualisations, nous avons pu mettre en avant des « questions » qui méritaient des réponses.
+Il était intéressant de se concentrer sur le nombre de musées en France et d‘essayer d’expliquer leur répartition et de montrer leur historique de création.. Grace aux différents types de datavisualisations, nous avons pu répondre à des  questions qui méritaient des réponses.
 Toutes fois, quelques problèmes ont été notés à savoir:
 
 * Il est nécessaire d’adapter les données à chaque application pour les visualiser
